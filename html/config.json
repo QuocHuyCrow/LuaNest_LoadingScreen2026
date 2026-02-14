@@ -1,0 +1,92 @@
+{
+    "server": {
+        "name": "Yes City",
+        "subtitle": "Roleplay City"
+    },
+    "background": {
+        "images": [
+            {
+                "id": "1",
+                "url": "https://raw.githubusercontent.com/cotywkk/HinhAnhMoonCity/main/Asset_LoadingScreen/Anh_1.png"
+            },
+            {
+                "id": "2",
+                "url": "https://raw.githubusercontent.com/cotywkk/HinhAnhMoonCity/main/Asset_LoadingScreen/Anh_2.png"
+            },
+            {
+                "id": "3",
+                "url": "https://raw.githubusercontent.com/cotywkk/HinhAnhMoonCity/main/Asset_LoadingScreen/Anh_3.png"
+            },
+            {
+                "id": "4",
+                "url": "https://raw.githubusercontent.com/cotywkk/HinhAnhMoonCity/main/Asset_LoadingScreen/Anh_4.png"
+            },
+            {
+                "id": "5",
+                "url": "https://raw.githubusercontent.com/cotywkk/HinhAnhMoonCity/main/Asset_LoadingScreen/Anh_5.png"
+            },
+            {
+                "id": "6",
+                "url": "https://raw.githubusercontent.com/cotywkk/HinhAnhMoonCity/main/Asset_LoadingScreen/Anh_6.png"
+            },
+            {
+                "id": "7",
+                "url": "https://raw.githubusercontent.com/cotywkk/HinhAnhMoonCity/main/Asset_LoadingScreen/Anh_7.png"
+            },
+            {
+                "id": "8",
+                "url": "https://raw.githubusercontent.com/cotywkk/HinhAnhMoonCity/main/Asset_LoadingScreen/Anh_8.png"
+            },
+            {
+                "id": "9",
+                "url": "https://raw.githubusercontent.com/cotywkk/HinhAnhMoonCity/main/Asset_LoadingScreen/Anh_9.png"
+            },
+            {
+                "id": "10",
+                "url": "https://raw.githubusercontent.com/cotywkk/HinhAnhMoonCity/main/Asset_LoadingScreen/Anh_10.png"
+            },
+            {
+                "id": "11",
+                "url": "https://raw.githubusercontent.com/cotywkk/HinhAnhMoonCity/main/Asset_LoadingScreen/Anh_11.png"
+            },
+            {
+                "id": "12",
+                "url": "https://raw.githubusercontent.com/cotywkk/HinhAnhMoonCity/main/Asset_LoadingScreen/Anh_12.png"
+            },
+            {
+                "id": "13",
+                "url": "https://raw.githubusercontent.com/cotywkk/HinhAnhMoonCity/main/Asset_LoadingScreen/Anh_13.png"
+            }
+        ],
+        "intervalSeconds": 5
+    },
+    "music": {
+        "playlist": [
+            {
+                "id": "1",
+                "title": "MỘT NĂM MỚI BÌNH AN x CHINA J",
+                "artist": "MinhAk Remix",
+                "url": "https://r2.fivemanage.com/VAJ4RrGbdTYdxPJHxowwK/MTNMMIBNHANxCHINAJ-MinhAkRemixNhcttremix.mp3"
+            }
+        ],
+        "defaultVolume": 0.2
+    },
+    "greetings": {
+        "wishes": [
+            "🌸 An Khang Thịnh Vượng - Vạn Sự Như Ý 🌸",
+            "🧧 Tấn Tài Tấn Lộc - Công Thành Danh Toại 🧧",
+            "💰 Tiền Vào Như Nước - Tiền Ra Nhỏ Giọt 💰",
+            "🚗 Chúc Các Bạn Có Những Giờ Phút Roleplay Vui Vẻ 🚗",
+            "✨ Năm Mới Bình An - Nhà Nhà Hạnh Phúc ✨",
+            "🐴 Xuân Bính Ngọ - Đại Cát Đại Lợi 🐴",
+            "🎉 Cung Chúc Tân Xuân - Sức Khỏe Dồi Dào 🎉",
+            "🥂 Chúc Mừng Năm Mới 2026 🥂"
+        ],
+        "intervalSeconds": 4
+    },
+    "easterEgg": {
+        "enabled": true,
+        "clickCount": 5,
+        "duration": 6000
+    }
+}
